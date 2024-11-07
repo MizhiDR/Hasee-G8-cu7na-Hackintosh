@@ -2,10 +2,12 @@
 
 ### 适用机型
     Hasee G8-CU7NA
-    
+
 * 不适用
 
     - 理论神舟10代CPU可用，i5-10200H除外
+
+![nootbook](./nootbook.png)
 
 
 ### 适用的 macOS  版本
